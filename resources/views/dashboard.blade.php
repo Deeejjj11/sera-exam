@@ -24,16 +24,7 @@
             </div>
         </div>
 
-        {{-- <div class="col-lg-3 col-md-6">
-            <div class="card shadow-sm mb-4">
-                <div class="card-body">
-                    <h5 class="card-title text-secondary">Bags Per Brand</h5>
-                    @foreach ($bagsPerBrandData as $brand)
-                        <p class="fw-bold text-warning">{{ $brand->brand_name }}: {{ $brand->total }} Bags</p>
-                    @endforeach
-                </div>
-            </div>
-        </div> --}}
+        
 
         <div class="col-lg-3 col-md-6">
             <div class="card shadow-sm mb-4">
